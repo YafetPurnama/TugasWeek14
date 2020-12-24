@@ -24,7 +24,7 @@ namespace Week14
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
        
         private void button1_Click(object sender, EventArgs e)
@@ -34,6 +34,10 @@ namespace Week14
                 MessageBox.Show("Tolong isi Textbox terlebih dahulu");
                 textBoxNamaPanjang.Text = "";
             }
+            else
+            {
+                labelhasil.Text = Proses(textBoxNamaPanjang.Text.ToUpper(), textBoxdari.Text.ToUpper(), textBoxmenjadi.Text.ToUpper());
+            }
             //return labelhasil;
             textBoxNamaPanjang.CharacterCasing = CharacterCasing.Upper;
             char[] input = textBoxNamaPanjang.Text.ToCharArray();
@@ -41,7 +45,7 @@ namespace Week14
             //string A = textBoxdari.Text;
             //string B = textBoxmenjadi.Text;
             //int counter = 0;                        
-            labelhasil.Text = Proses(textBoxNamaPanjang.Text.ToUpper(), textBoxdari.Text.ToUpper(), textBoxmenjadi.Text.ToUpper());
+            
         }
 
         private void textBoxdari_TextChanged(object sender, EventArgs e)
