@@ -1,0 +1,10 @@
+C:\Users\Yafet\source\repos\Week14\Week14\bin\Debug\Week14.exe.config
+C:\Users\Yafet\source\repos\Week14\Week14\bin\Debug\Week14.exe
+C:\Users\Yafet\source\repos\Week14\Week14\bin\Debug\Week14.pdb
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.csprojAssemblyReference.cache
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.Form1.resources
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.Properties.Resources.resources
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.csproj.GenerateResource.cache
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.csproj.CoreCompileInputs.cache
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.exe
+C:\Users\Yafet\source\repos\Week14\Week14\obj\Debug\Week14.pdb
